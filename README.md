@@ -2,7 +2,7 @@
 ### I'm Rhuan Castilho
 
 <p>-👨🏻‍🎓I'm studying fullstack web development by myself</p>
--🚀 Also a self-learn person 
+-🚀 A self-learn person 
 
 ### I’m currently learning all about
 <div>
