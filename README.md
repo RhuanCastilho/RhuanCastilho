@@ -1,4 +1,3 @@
-### Hello! Welcome to my Github profile. 
 ### I'm Rhuan Castilho
 
 <p>-👨🏻‍🎓I'm studying fullstack web development by myself</p>
